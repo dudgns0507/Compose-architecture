@@ -1,4 +1,4 @@
-package com.github.dudgns0507.compose.sample.ui.theme
+package com.github.dudgns0507.compose.sample.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
